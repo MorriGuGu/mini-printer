@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\AD20 项目及工具\迷你打印机PCB\PCB_Project\迷你打印机.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=迷你打印机-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=迷你打印机-slotholes.txt|DrillLayers=gtl,gbl

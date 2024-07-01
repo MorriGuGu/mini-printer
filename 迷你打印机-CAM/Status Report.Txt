@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[Fabrication Testpoint Report for ÃÔÄã´òÓ¡»ú.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:32:30 On 2024/3/22
